@@ -13,7 +13,7 @@ I investigate alerts, hunt threats, and turn repeat work into scripts.
 - 🛡️ Triage and investigate alerts in Microsoft security environments
 - 🧰 4+ years across IT support and security, from help desk to SOC work
 - 🎓 B.Eng. in Computer Engineering
-- 🌱 Learning: Python for security automation, and detection engineering
+- 🌱 Learning: detection engineering and security automation
 - 📫 [LinkedIn](https://www.linkedin.com/in/hailegebriel-bassie-513277233)
 
 ## Skills
@@ -25,7 +25,7 @@ I investigate alerts, hunt threats, and turn repeat work into scripts.
 | Email & phishing defense | Phishing response, sender/domain blocking, KnowBe4 awareness campaigns |
 | Endpoint security | Microsoft Intune, patching and policy enforcement |
 | Zero Trust & networking | Cloudflare Zero Trust / WARP, VPN, DNS |
-| Scripting | PowerShell (Python: learning) |
+| Scripting | PowerShell |
 | Systems | Windows, Linux (basic), Microsoft 365 |
 | Ticketing & docs | ServiceNow, Jira, incident write-ups and root cause analysis |
 
@@ -36,12 +36,12 @@ I investigate alerts, hunt threats, and turn repeat work into scripts.
 ## Projects
 | Project | What it does |
 |---------|--------------|
-| 🚧 Coming soon: Failed Login Detector | Python script that flags brute-force login attempts in a log file |
+| 🚧 Coming soon | First project in progress |
 
 ## Learning Roadmap
 - [x] Microsoft Defender hands-on labs
 - [ ] CompTIA Security+ (November 2026)
-- [ ] First Python security tool: failed login detector
+- [ ] First hands-on security project
 - [ ] Home lab with a free SIEM (Wazuh or Splunk Free)
 - [ ] Write-ups of what I build and learn
 
