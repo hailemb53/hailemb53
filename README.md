@@ -6,7 +6,6 @@ I investigate alerts, hunt threats, and turn repeat work into scripts.
 ![Defender XDR](https://img.shields.io/badge/Defender_XDR-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-5C2D91?style=flat&logo=microsoftazure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Security+](https://img.shields.io/badge/Security%2B-exam_Nov_2026-C8202F?style=flat&logo=comptia&logoColor=white)
 
@@ -14,7 +13,7 @@ I investigate alerts, hunt threats, and turn repeat work into scripts.
 - 🛡️ Triage and investigate alerts in Microsoft security environments
 - 🧰 4+ years across IT support and security, from help desk to SOC work
 - 🎓 B.Eng. in Computer Engineering
-- 🌱 Learning: Python automation and detection engineering
+- 🌱 Learning: Python for security automation, and detection engineering
 - 📫 [LinkedIn](https://www.linkedin.com/in/hailegebriel-bassie-513277233)
 
 ## Skills
@@ -26,7 +25,7 @@ I investigate alerts, hunt threats, and turn repeat work into scripts.
 | Email & phishing defense | Phishing response, sender/domain blocking, KnowBe4 awareness campaigns |
 | Endpoint security | Microsoft Intune, patching and policy enforcement |
 | Zero Trust & networking | Cloudflare Zero Trust / WARP, VPN, DNS |
-| Scripting | Python, PowerShell |
+| Scripting | PowerShell (Python: learning) |
 | Systems | Windows, Linux (basic), Microsoft 365 |
 | Ticketing & docs | ServiceNow, Jira, incident write-ups and root cause analysis |
 
