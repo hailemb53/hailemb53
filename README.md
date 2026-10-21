@@ -1,12 +1,21 @@
 # Hi, I'm Haile 👋
 
+**Cybersecurity Analyst building toward Security Engineer.**
+I investigate alerts, hunt threats, and turn repeat work into scripts.
+
+![Defender XDR](https://img.shields.io/badge/Defender_XDR-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-5C2D91?style=flat&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Security+](https://img.shields.io/badge/Security%2B-exam_Nov_2026-C8202F?style=flat&logo=comptia&logoColor=white)
+
 ## About Me
-- 🛡️ Cybersecurity Analyst, working toward **Security Engineer**
-- 🔍 I triage alerts, investigate sign-ins, and respond to phishing in Microsoft security environments
-- 🧰 4+ years in IT support and security, from help desk to SOC work
+- 🛡️ Triage and investigate alerts in Microsoft security environments
+- 🧰 4+ years across IT support and security, from help desk to SOC work
 - 🎓 B.Eng. in Computer Engineering
-- 🌱 Currently learning: Python automation and detection engineering
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hailegebriel-bassie-513277233)
+- 🌱 Learning: Python automation and detection engineering
+- 📫 [LinkedIn](https://www.linkedin.com/in/hailegebriel-bassie-513277233)
 
 ## Skills
 | Area | Tools / Details |
@@ -28,10 +37,14 @@
 ## Projects
 | Project | What it does |
 |---------|--------------|
-| 🚧 Coming soon: [Log Parser](https://github.com/hailemb53/log-parser) | Python script that flags failed logins in a log file |
+| 🚧 Coming soon: Failed Login Detector | Python script that flags brute-force login attempts in a log file |
 
-## GitHub Stats
-![Haile's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailemb53&show_icons=true)
+## Learning Roadmap
+- [x] Microsoft Defender hands-on labs
+- [ ] CompTIA Security+ (November 2026)
+- [ ] First Python security tool: failed login detector
+- [ ] Home lab with a free SIEM (Wazuh or Splunk Free)
+- [ ] Write-ups of what I build and learn
 
 ---
 *All projects use sample or public data only. No real company data.*
