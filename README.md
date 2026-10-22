@@ -12,6 +12,7 @@ I investigate alerts, lead security awareness, and automate repeat work.
 ## About Me
 - 🛡️ Security Analyst: I triage and investigate alerts in Microsoft security environments
 - 📣 Security Awareness Program Lead: phishing simulations and training with KnowBe4
+- 🔐 I create, review and manage security policies in Entra ID and Intune, including Conditional Access, and after incidents I harden policies and keep devices protected, compliant and up to date
 - ☁️ I help my team with cloud migrations, including moving acquired companies from on-premises to cloud-only
 - ⚙️ I help build automations for tasks like license assignment
 - 🧰 4+ years across IT support and security, from help desk to SOC work
@@ -24,9 +25,9 @@ I investigate alerts, lead security awareness, and automate repeat work.
 |------|-----------------|
 | Alert triage & investigation | Microsoft Defender XDR, Microsoft 365 Defender |
 | Threat hunting | KQL (Advanced Hunting) |
-| Identity & access | Entra ID / Azure AD, MFA, Conditional Access, Active Directory, passkeys |
+| Identity & access | Entra ID / Azure AD, MFA, Conditional Access policy management, Active Directory, passkeys |
 | Email & phishing defense | Phishing response, sender/domain blocking, KnowBe4 awareness campaigns |
-| Endpoint security | Microsoft Intune, patching and policy enforcement |
+| Endpoint security & policy | Microsoft Intune, security policy creation and review, post-incident hardening, device compliance and patching |
 | Zero Trust & networking | Cloudflare Zero Trust / WARP, VPN, DNS |
 | Automation | Zapier, Intune, Entra ID dynamic groups, PowerShell |
 | Systems | Windows, Linux (basic), Microsoft 365 |
