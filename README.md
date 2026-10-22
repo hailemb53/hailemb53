@@ -1,45 +1,46 @@
-# Hi, I'm Haile 👋
+# Haile | Security Analyst
 
-**Security Analyst building toward Security Engineer.**
-I investigate alerts, lead security awareness, and automate repeat work.
+Security Analyst building toward Security Engineer. I investigate and respond to threats in Microsoft environments, manage security policy, and lead security awareness.
 
 ![Defender XDR](https://img.shields.io/badge/Defender_XDR-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-5C2D91?style=flat&logo=microsoftazure&logoColor=white)
+![Conditional Access](https://img.shields.io/badge/Conditional_Access-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat&logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-5C2D91?style=flat&logo=microsoftazure&logoColor=white)
+![Cloudflare Zero Trust](https://img.shields.io/badge/Cloudflare_Zero_Trust-F38020?style=flat&logo=cloudflare&logoColor=white)
+![KnowBe4](https://img.shields.io/badge/KnowBe4-0B3C5D?style=flat)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-## About Me
-- 🛡️ Security Analyst: I triage and investigate alerts in Microsoft security environments
-- 📣 Security Awareness Program Lead: phishing simulations and training with KnowBe4
-- 🔐 I create, review and manage security policies in Entra ID and Intune, including Conditional Access, and after incidents I harden policies and keep devices protected, compliant and up to date
-- ☁️ I help my team with cloud migrations, including moving acquired companies from on-premises to cloud-only
-- ⚙️ I help build automations for tasks like license assignment
-- 🧰 4+ years across IT support and security, from help desk to SOC work
-- 🎓 B.Eng. in Computer Engineering
-- 🌱 Learning: detection engineering and security automation
-- 📫 [LinkedIn](https://www.linkedin.com/in/hailegebriel-bassie-513277233)
+## About
+- **Threat response:** I investigate alerts and respond to active threats such as token abuse, Teams phishing and malicious email. Actions include token revocation, email removal and file quarantine.
+- **Investigation and hunting:** I review sign-ins (including impossible-travel and location anomalies) and run KQL Advanced Hunting queries to recommend fixes like blocking legacy authentication and enforcing MFA.
+- **Policy management:** I create, review and manage security policies in Entra ID and Intune, including Conditional Access. After incidents I harden policies and keep devices protected, compliant and up to date.
+- **Email and domain defense:** I block malicious senders and domains and manage URL allow and block rules.
+- **Security awareness:** I lead the security awareness program with KnowBe4, including phishing simulations and training.
+- **Cloud and automation:** I support migrations to cloud-only environments, including newly acquired companies, and help build automations such as license assignment.
+- **Background:** 4+ years across IT support and security. B.Eng. in Computer Engineering.
+- **Currently learning:** detection engineering and security automation.
+- **Connect:** [LinkedIn](https://www.linkedin.com/in/hailegebriel-bassie-513277233)
 
 ## Skills
-| Area | Tools / Details |
-|------|-----------------|
-| Alert triage & investigation | Microsoft Defender XDR, Microsoft 365 Defender |
+| Area | Tools and details |
+|------|-------------------|
+| Threat response | Microsoft Defender XDR, token revocation, email removal, quarantine |
+| Alert triage and investigation | Microsoft Defender XDR, Microsoft 365 Defender, sign-in analysis |
 | Threat hunting | KQL (Advanced Hunting) |
-| Identity & access | Entra ID / Azure AD, MFA, Conditional Access policy management, Active Directory, passkeys |
-| Email & phishing defense | Phishing response, sender/domain blocking, KnowBe4 awareness campaigns |
-| Endpoint security & policy | Microsoft Intune, security policy creation and review, post-incident hardening, device compliance and patching |
-| Zero Trust & networking | Cloudflare Zero Trust / WARP, VPN, DNS |
+| Identity and access | Entra ID, MFA, Conditional Access policy management, Active Directory, passkeys |
+| Email and phishing defense | Sender and domain blocking, URL allow and block rules, KnowBe4 campaigns |
+| Endpoint security and policy | Intune, security policy creation and review, post-incident hardening, device compliance and patching |
+| Zero Trust and networking | Cloudflare Zero Trust / WARP, VPN, DNS |
 | Automation | Zapier, Intune, Entra ID dynamic groups, PowerShell |
 | Systems | Windows, Linux (basic), Microsoft 365 |
-| Ticketing & docs | ServiceNow, Jira, incident write-ups and root cause analysis |
+| Ticketing and documentation | ServiceNow, Jira, incident write-ups, root cause analysis |
 
 ## Courses
-- 🧪 Microsoft Defender Security Operations & Hands-On Labs (Udemy)
+- Microsoft Defender Security Operations & Hands-On Labs (Udemy)
 
 ## Projects
-| Project | What it does |
-|---------|--------------|
-| 🚧 Coming soon | First project in progress |
+Projects are in progress. Check back soon.
 
 ## Learning Roadmap
 - [x] Microsoft Defender hands-on labs
