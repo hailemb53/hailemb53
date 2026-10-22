@@ -30,8 +30,8 @@ Security Analyst building toward Security Engineer. I investigate and respond to
 | Threat hunting | KQL (Advanced Hunting) |
 | Identity and access | Entra ID, MFA, Conditional Access policy management, Active Directory, passkeys |
 | Email and phishing defense | Sender and domain blocking, URL allow and block rules, KnowBe4 campaigns |
-| Endpoint security and policy | Intune, security policy creation and review, post-incident hardening, device compliance and patching |
-| Zero Trust and networking | Cloudflare Zero Trust / WARP, VPN, DNS |
+| Endpoint security and policy | Intune, Autopilot, Group Policy, security policy creation and review, post-incident hardening, device compliance, patching, imaging |
+| Zero Trust and networking | Cloudflare Zero Trust / WARP, VPN, DNS, DHCP, TCP/IP |
 | Automation | Zapier, Intune, Entra ID dynamic groups, PowerShell |
 | Systems | Windows, Linux (basic), Microsoft 365 |
 | Ticketing and documentation | ServiceNow, Jira, incident write-ups, root cause analysis |
