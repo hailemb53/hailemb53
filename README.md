@@ -1,4 +1,4 @@
-# Haile | Security Analyst
+# Hailegebriel Bassie | Security Analyst
 
 Security Analyst building toward Security Engineer. I investigate and respond to threats in Microsoft environments, manage security policy, and lead security awareness.
 
