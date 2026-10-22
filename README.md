@@ -12,11 +12,11 @@ Security Analyst building toward Security Engineer. I investigate and respond to
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ## About
-- **Threat response:** I investigate alerts and respond to active threats such as token abuse, Teams phishing and malicious email. Actions include token revocation, email removal and file quarantine.
+- **Threat response:** I monitor and investigate alerts for 1,000+ users and respond to active threats such as token abuse, Teams phishing and malicious email. Actions include token revocation, email removal and file quarantine.
 - **Investigation and hunting:** I review sign-ins (including impossible-travel and location anomalies) and run KQL Advanced Hunting queries to recommend fixes like blocking legacy authentication and enforcing MFA.
 - **Policy management:** I create, review and manage security policies in Entra ID and Intune, including Conditional Access. After incidents I harden policies and keep devices protected, compliant and up to date.
 - **Email and domain defense:** I block malicious senders and domains and manage URL allow and block rules.
-- **Security awareness:** I lead the security awareness program with KnowBe4, including phishing simulations and training.
+- **Security awareness:** I lead the security awareness program with KnowBe4, running monthly phishing simulations and quarterly training across 20+ departments. Phishing click rates dropped by over 30% in the first quarter.
 - **Cloud and automation:** I support migrations to cloud-only environments, including newly acquired companies, and help build automations such as license assignment.
 - **Background:** 4+ years across IT support and security. B.Eng. in Computer Engineering.
 - **Currently learning:** detection engineering and security automation.
