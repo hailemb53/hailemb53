@@ -35,18 +35,3 @@ Security Analyst building toward Security Engineer. I investigate and respond to
 | Automation | Zapier, Intune, Entra ID dynamic groups, PowerShell |
 | Systems | Windows, Linux (basic), Microsoft 365 |
 | Ticketing and documentation | ServiceNow, Jira, incident write-ups, root cause analysis |
-
-## Courses
-- Microsoft Defender Security Operations & Hands-On Labs (Udemy)
-
-## Projects
-Projects are in progress. Check back soon.
-
-## Learning Roadmap
-- [x] Microsoft Defender hands-on labs
-- [ ] First hands-on security project
-- [ ] Home lab with a free SIEM (Wazuh or Splunk Free)
-- [ ] Write-ups of what I build and learn
-
----
-*All projects use sample or public data only. No real company data.*
