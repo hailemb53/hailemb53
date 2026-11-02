@@ -20,7 +20,7 @@ Security Analyst building toward Security Engineer. I investigate and respond to
 - **Security awareness:** I lead the security awareness program with KnowBe4, running monthly phishing simulations and quarterly training across 20+ departments. Phishing click rates dropped by over 30% in the first quarter.
 - **Cloud and automation:** I support migrations to cloud-only environments, including newly acquired companies, and help build automations such as license assignment.
 - **Background:** 4+ years across IT support and security. B.Eng. in Computer Engineering.
-- **Certifications:** CompTIA Security+ (SY0-701).
+- **Certifications:** CompTIA Security+ (SY0-701), Oct 2026.
 - **Currently learning:** detection engineering and security automation.
 - **Connect:** [LinkedIn](https://www.linkedin.com/in/hailegebriel-bassie-513277233)
 
