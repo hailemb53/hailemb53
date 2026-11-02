@@ -2,6 +2,7 @@
 
 Security Analyst building toward Security Engineer. I investigate and respond to threats in Microsoft environments, manage security policy, and lead security awareness.
 
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat)
 ![Defender XDR](https://img.shields.io/badge/Defender_XDR-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Conditional Access](https://img.shields.io/badge/Conditional_Access-0078D4?style=flat&logo=microsoft&logoColor=white)
@@ -19,6 +20,7 @@ Security Analyst building toward Security Engineer. I investigate and respond to
 - **Security awareness:** I lead the security awareness program with KnowBe4, running monthly phishing simulations and quarterly training across 20+ departments. Phishing click rates dropped by over 30% in the first quarter.
 - **Cloud and automation:** I support migrations to cloud-only environments, including newly acquired companies, and help build automations such as license assignment.
 - **Background:** 4+ years across IT support and security. B.Eng. in Computer Engineering.
+- **Certifications:** CompTIA Security+ (SY0-701).
 - **Currently learning:** detection engineering and security automation.
 - **Connect:** [LinkedIn](https://www.linkedin.com/in/hailegebriel-bassie-513277233)
 
